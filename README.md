@@ -1,5 +1,5 @@
 Based on Anomaly Detection in Surveillance Videos, Sukalyan Bhakat, Ganesh Ramakrishnan
-Best demo paper awardee. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, CoDS-COMAD '19, Kolkota, India.
+Best demo paper awardee. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, CoDS-COMAD '19, Kolkota, India. More details on our work in Video Analytics can be found at https://www.cse.iitb.ac.in/~ganesh/videosurvellianceanalytics
 
 Current training on a suitable improvisation of publicly available activity recognition dataset: http://rose1.ntu.edu.sg/datasets/actionrecognition.asp 
 # anomaly-detection-in-proctored-videos
