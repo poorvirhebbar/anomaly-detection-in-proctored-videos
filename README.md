@@ -1,7 +1,9 @@
-Based on Anomaly Detection in Surveillance Videos, Sukalyan Bhakat, Ganesh Ramakrishnan
-Best demo paper awardee. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, CoDS-COMAD '19, Kolkota, India. More details on our work in Video Analytics can be found at https://www.cse.iitb.ac.in/~ganesh/videosurvellianceanalytics
+(Semi) Automated anomaly detection using Machine Learning can aid proctoring and serve as a deterrent to malpractices. etc.  To this end, we have volunteered to design a machine learning model and an associated process that can be used for anomaly detection as part of remote proctoring. The model has been currently trained by a suitable adaptation of a publicly available action recognition dataset from NTU:  http://rose1.ntu.edu.sg/datasets/actionrecognition.asp 
 
-Current training on a suitable improvisation of publicly available activity recognition dataset: http://rose1.ntu.edu.sg/datasets/actionrecognition.asp 
+The code and approach are based on Anomaly Detection in Surveillance Videos, by Sukalyan Bhakat, Ganesh Ramakrishnam,  Best demo paper, In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, CoDS-COMAD '19, Kolkota, India. 
+
+More details on our work in Video Analytics can be found at https://www.cse.iitb.ac.in/~ganesh/videosurvellianceanalytics
+
 # anomaly-detection-in-proctored-videos
 to_do
 
