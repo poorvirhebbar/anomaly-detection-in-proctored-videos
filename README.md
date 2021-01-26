@@ -4,7 +4,7 @@ The code and approach are based on Anomaly Detection in Surveillance Videos, by 
 
 More details on our work in Video Analytics can be found at https://www.cse.iitb.ac.in/~ganesh/videosurvellianceanalytics
 
-For CS387 project students, the runthrough instructions of the code can be seen in [Guidelines for CS387 project students](./Guidelines for CS387 project students.md)
+For CS387 project students, the runthrough instructions of the code can be seen in [Guidelines for CS387 project students](./Guidelines_for_CS387_project students.md)
 
 
 # anomaly-detection-in-proctored-videos
